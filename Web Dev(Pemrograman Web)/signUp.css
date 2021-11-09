@@ -1,0 +1,16 @@
+.container-sign-up {
+	margin: 2em 3em 5em 3em;
+	background-color: #f8f8f8;
+	padding: 2em;
+	border-radius: 16px;
+}
+
+.btn-main-login {
+	font-family: IBM Plex Sans;
+	font-weight: 300;
+	font-size: 1.3em;
+	background-color: #3be5b1;
+	color: #fafafa;
+	padding: 0.2em 1em 0.2em 1em;
+	margin-top: 0.5em;
+}

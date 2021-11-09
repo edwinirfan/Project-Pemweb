@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@300;400;700;900&display=swap");
+
+.container-login {
+	background-color: #f8f8f8;
+	margin: 5em 0em 5em 3.5em;
+	padding: 5em;
+	border-radius: 15px;
+}
+
+.container-main-login h4 {
+	font-family: IBM Plex Sans;
+	font-size: 1.5em;
+	text-transform: capitalize;
+	font-family: 300;
+	padding-bottom: 1em;
+}
+
+.btn-main-login {
+	margin-top: 1em;
+	background-color: #3be5b1;
+	font-size: 1.3em;
+	font-family: IBM Plex Sans;
+	padding: 0.2em 1em 0.2em 1em;
+	color: #f8f8f8;
+	transition: 0.5s ease-in-out;
+}
+
+.btn-main-login:hover {
+	background-color: #fafafa;
+	color: #3be5b1;
+	border: 1px solid #3be5b1;
+}

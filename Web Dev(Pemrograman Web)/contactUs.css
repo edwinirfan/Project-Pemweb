@@ -1,0 +1,53 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.btn-sign-up {
+	font-family: IBM Plex Sans;
+	font-weight: 300;
+	font-size: 1.3em;
+	background-color: #fafafa;
+	color: #3be5b1;
+	border: 1px solid #3be5b1;
+	padding: 0.2em 1em 0.2em 1em;
+	transition: 0.5s ease-in-out;
+}
+
+.btn-sign-up:hover {
+	background-color: #3be5b1;
+	color: #fafafa;
+}
+
+.main-container-contactUs {
+	margin: 4em 3em 5em 3em;
+	background-color: #f8f8f8;
+	padding: 3em;
+	border-radius: 16px;
+}
+
+.btn-send {
+	background-color: #3be5b1;
+	margin-top: 1.4em;
+	font-size: 18px;
+	color: #f8f8f8;
+	padding: 0.5em 1em 0.5em 1em;
+	transition: ease-in-out 0.5s;
+}
+
+.btn-send:hover {
+	color: #1b2a40;
+}
+
+.right-section h2 {
+	text-transform: capitalize;
+}
+
+.contact-container {
+	margin-top: 5em;
+}
+
+.contact-container i {
+	font-size: 1.8em;
+	padding-right: 1.5em;
+}
